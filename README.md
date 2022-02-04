@@ -7,7 +7,7 @@ I'm a very organized, clear and precise person and I always put all of myself in
 This nature has led me to develop more soft skills such as how to work in a group by collaborating with colleagues and often finding myself like a point of reference, 
 I knowing how to organize commitments, study as well as leisure and also refine my communication skills.
 
-- 🌱 I’m currently learning **React, Node.js, Angular**
+- 🌱 I’m currently learning **React**
 - 📫 How to reach me **dimariemilio96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
